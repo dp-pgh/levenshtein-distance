@@ -1,0 +1,6 @@
+Calculates the Levenshtein distance index between two strings.
+
+This was used in an early method for spell-correctors.
+
+"The Levenshtein distance between two strings is defined as the minimum number of edits needed to transform one string into the other, with the allowable edit operations being insertion, deletion, or substitution of a single character. It is named after Vladimir Levenshtein, who considered this distance in 1965."
+- http://en.wikipedia.org/wiki/Levenshtein_distance
